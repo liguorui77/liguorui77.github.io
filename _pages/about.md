@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-About me
-------
+# About me
+# ------
 
 I am currently an associate professor with Northeastern University, China. 
-My currently research fileds include Internet of Things, Machine Learnings, and Optimization.
+My currently research interests include Internet of Things, Machine Learning, and Optimization.
