@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guorui Li / Dr. Guorui Li"
+title                    : "Guorui Li / 李国瑞"
 title_separator          : "-"
 name                     : &name "Guorui Li"
 description              : &description "I am currently an associate professor with Northeastern University, China."
@@ -85,10 +85,10 @@ author:
   bio              : "Northeastern University"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "liguorui@qhd.neu.edu.cn"
+#  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-2360-7895"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
