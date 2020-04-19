@@ -16,4 +16,5 @@ I have accomplished many research grants, such as the National Natural Science F
 
 My current research interests include the Internet of Things, Machine Learning, and Optimization.
 
-Email: liguorui@qhd.neu.edu.cn
+# Email
+liguorui@qhd.neu.edu.cn
