@@ -1,0 +1,12 @@
+---
+title: "Matrix Completion via Schatten Capped p Norm"
+collection: publications
+permalink: /publication/TKDE2022
+excerpt: ''
+date: 2022-03-05
+venue: 'IEEE Transactions on Knowledge and Data Engineering '
+paperurl: 'https://ieeexplore.ieee.org/document/9025071'
+citation: 'Guoui Li, Guang Guo, Sancheng Peng, Cong Wang, Shui Yu, Jianwei Niu, Jianli Mo. Matrix Completion via Schatten Capped p Norm. IEEE Transactions on Knowledge and Data Engineering. 2022, 34(1): 394-404.'
+---
+
+The low-rank matrix completion problem is fundamental in both machine learning and computer vision fields with many important applications, such as recommendation system, motion capture, face recognition, and image inpainting. In order to avoid solving the rank minimization problem which is NP-hard, several surrogate functions of the rank have been proposed in the literature. However, the matrix restored from the optimization problem based on the existing surrogate functions seriously deviates from the original one. In this paper, we first design a new non-convex Schatten capped p norm which generalizes several existing non-convex matrix norms and balances between the rank and the nuclear norm of the matrix. Then, a matrix completion method based on the Schatten capped p norm is proposed by exploiting the framework of the alternating direction method of multipliers. Meanwhile, the Schatten capped p norm regularized least squares subproblem is analyzed in detail and is solved explicitly. Finally, we evaluate the performance of the proposed matrix completion method based on extensive experiments in the field of image inpainting. All the experimental results demonstrate that the proposed method can indeed improve the accuracy of matrix completion compared with the existing methods.
