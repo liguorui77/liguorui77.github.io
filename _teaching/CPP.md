@@ -12,7 +12,7 @@ location: "China"
 
 [PPT](https://liguorui77.github.io/files/PPT.zip)
 
-[Ex1](https://liguorui77.github.io/files/Ex1.zip)  [Ex2](https://liguorui77.github.io/files/Ex2.zip) [Ex3](https://liguorui77.github.io/files/Ex3.zip) [Ex4](https://liguorui77.github.io/files/Ex4.zip) [Ex5](https://liguorui77.github.io/files/Ex5.zip) [Ex6](https://liguorui77.github.io/files/Ex6.zip) [Ex7](https://liguorui77.github.io/files/Ex7.zip) [Ex8](https://liguorui77.github.io/files/Ex8.zip) [Ex9](https://liguorui77.github.io/files/Ex9.zip) [Ex10](https://liguorui77.github.io/files/Ex10.zip)
+[Ex1](https://liguorui77.github.io/files/Ex1.zip)  [Ex2](https://liguorui77.github.io/files/Ex2.zip) [Ex3](https://liguorui77.github.io/files/Ex3.zip) [Ex4](https://liguorui77.github.io/files/Ex4.zip) [Ex5](https://liguorui77.github.io/files/Ex5.zip) [Ex6](https://liguorui77.github.io/files/Ex6.zip) [Ex7](https://liguorui77.github.io/files/Ex7.zip) [Ex8](https://liguorui77.github.io/files/Ex8.zip) [Ex9](https://liguorui77.github.io/files/Ex9.zip) [Ex10](https://liguorui77.github.io/files/Ex10.zip) [模拟题答案](https://liguorui77.github.io/files/模拟题答案.zip)
 
 
 [C++程序设计期末考试-考生须知](https://liguorui77.github.io/files/考生须知.pdf)
