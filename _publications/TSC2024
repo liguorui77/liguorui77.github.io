@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-11-24
 venue: 'IEEE Transactions on Services Computing'
 paperurl: 'https://ieeexplore.ieee.org/document/10766927'
-citation: '2	Cong Wang, Xiaojuan Chai, Sancheng Peng, Ying Yuan, Guorui Li. Deep Reinforcement Learning with Entropy and Attention Mechanism for D2D-Assisted Task Offloading in Edge Computing. IEEE Transactions on Services Computing, 2024, 17(6): 3317-3329.'
+citation: 'Cong Wang, Xiaojuan Chai, Sancheng Peng, Ying Yuan, Guorui Li. Deep Reinforcement Learning with Entropy and Attention Mechanism for D2D-Assisted Task Offloading in Edge Computing. IEEE Transactions on Services Computing, 2024, 17(6): 3317-3329.'
 ---
 
 The rapid development of edge computing and the Industrial Internet of Things have facilitated near real-time optimization of compute-intensive industrial tasks. Mobile edge computing (MEC) and device-to-device (D2D) offloading are promising ways to achieve near-real-time optimization. In this article, We propose a D2D-assisted MEC computing offloading framework by using deep reinforcement Learning (DRL) with entropy and attention mechanism (DMOEA). DMOEA considers interactions among related entities, including horizontal device-to-device collaboration and vertical device-to-edge offloading. Then, a DRL-based model with multi-actor single-critic structure is designed to solve the offloading strategy. In addition, to further improve efficiency, an attention mechanism is introduced to adapt dynamic changes in network and enhance the exploration ability. The experimental results show that the proposed framework can obtain a fast convergence rate and small oscillation amplitude and also can effectively reduce latency.
