@@ -1,0 +1,12 @@
+---
+title: "Joint Computation Offloading and Resource Allocation for End-edge Collaboration in Internet of Vehicles via Multi-agent Reinforcement Learning"
+collection: publications
+permalink: /publication/NN2024
+excerpt: ''
+date: 2024-08-16
+venue: 'Neural Networks'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0893608024005458'
+citation: 'Cong Wang, Yaoming Wang, Ying Yuan, Sancheng Peng, Guorui Li, Pengfei Yin. Joint computation offloading and resource allocation for end-edge collaboration in internet of vehicles via multi-agent reinforcement learning. Neural Networks, 2024, 179: 106621.'
+---
+
+Vehicular edge computing (VEC), a promising paradigm for the development of emerging intelligent transportation systems, can provide lower service latency for vehicular applications. However, it is still a challenge to fulfill the requirements of such applications with stringent latency requirements in the VEC system with limited resources. In addition, existing methods focus on handling the offloading task in a certain time slot with statically allocated resources, but ignore the heterogeneous tasks’ different resource requirements, resulting in resource wastage. To solve the real-time task offloading and heterogeneous resource allocation problem in VEC system, we propose a decentralized solution based on the attention mechanism and recurrent neural networks (RNN) with a multi-agent distributed deep deterministic policy gradient (AR-MAD4PG). First, to address the partial observability of agents, we construct a shared agent graph and propose a periodic communication mechanism that enables edge nodes to aggregate information from other edge nodes. Second, to help agents better understand the current system state, we design an RNN-based feature extraction network to capture the historical state and resource allocation information of the VEC system. Thirdly, to tackle the challenges of excessive joint observation-action space and ineffective information interference, we adopt the multi-head attention mechanism to compress the dimension of the observation-action space of agents. Finally, we build a simulation model based on the actual vehicle trajectories, and the experimental results show that our proposed method outperforms the existing approaches.
