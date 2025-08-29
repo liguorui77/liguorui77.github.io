@@ -1,0 +1,11 @@
+---
+title: "Stateless Distributed Stein Variational Gradient Descent Method for Bayesian Federated Learning"
+collection: publications
+permalink: /publication/NeuCom2025-2
+excerpt: ''
+date: 2025-08-11
+venue: 'Neurocomputing'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0925231225018703'
+citation: 'Guorui Li, Jing Gan, Cong Wang, Sancheng Peng. Stateless distributed Stein variational gradient descent method for Bayesian federated learning. Neurocomputing, 2025, 654: 131198: 1-12.'
+---
+Traditional frequentist federated learning algorithms only learn point-estimated model parameters, which renders the obtained models lacking uncertainty measurements and susceptible to over-fitting problems. By inferring the posterior distribution of the model parameters, Bayesian federated learning (BFL) can provide uncertainty quantification to the inference result, making it a valuable tool for a wide range of mission-critical applications such as autonomous driving and medical diagnosis. In this paper, we propose a stateless distributed Stein variational gradient descent (SDSVGD) method to circumvent the issues inherent in existing BFL methods. After updating the local posterior particles in each scheduled client, the server updates the global posterior particles and the averaged likelihood particles subsequently. The SDSVGD method eliminates the need for the server to maintain local likelihood particles for any client, significantly reducing its storage requirements and enhancing the scalability of BFL. Meanwhile, the averaged likelihood particles are estimated in the server and used as a regularizer to avoid the adverse influence of outdated or inconsistent local likelihoods. Furthermore, we compute the density function from the gradient perspective and prove its rationality, which alleviates the influence of the curse of dimensionality when processing high-dimensional particles. Finally, we evaluated the performance of our proposed SDSVGD method by conducting extensive experiments on several regression and classification tasks. The experiment results demonstrate that the proposed SDSVGD method presents superior regression, classification, and calibration performance and excellent communication efficiency compared with other baseline algorithms.
