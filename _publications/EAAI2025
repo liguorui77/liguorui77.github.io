@@ -1,0 +1,11 @@
+---
+title: "An adaptive hybrid machine reading comprehension framework for multimodal emotion-cause pair extraction in conversations"
+collection: publications
+permalink: /publication/EAAI2025
+excerpt: ''
+date: 2025-12-15
+venue: 'Engineering Applications of Artificial Intelligence'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925231225000967'
+citation: 'Guorui Li, Xufeng Duan, Cong Wang, Sancheng Peng. An adaptive hybrid machine reading comprehension framework for multimodal emotion-cause pair extraction in conversations. Engineering Applications of Artificial Intelligence, 2025, 162: 112333: 1-13.'
+---
+Multimodal emotion-cause pair extraction in conversations (MECPEC) has gradually evolved into an emerging task aimed at discovering deeper causal relationships between emotions and their corresponding causes in conversational contexts. It has widespread application in fields such as human–computer interaction, social media analysis, customer feedback management, and empathetic companion, among others. However, the challenges posed by the oversimplified multimodal feature fusion mechanism and the failure to account for the relative positional relationship between emotions and causes still hinder the performance of MECPEC. In this study, we propose an adaptive hybrid machine reading comprehension (AHMRC) framework to extract potential emotion-cause pairs inherent in conversations. The MECPEC task is first transformed into a two-round hybrid machine reading comprehension task that sequentially enforces the global emotion query and the local cause query with the goal of exploring the relative position constraint specific to conversations. Subsequently, an adaptive multimodal attention module is designed by incorporating features extracted from text, video, and audio modalities, and adaptively fusing them according to their contributions. Extensive experiments were carried out on the benchmark datasets to demonstrate the effectiveness of the proposed AHMRC framework in comparison to other state-of-the-art methods in the literature.
