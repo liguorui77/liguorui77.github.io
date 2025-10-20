@@ -1,0 +1,11 @@
+---
+title: "FCP-Pro: federated conformal prediction algorithm based on prototype similarity"
+collection: publications
+permalink: /publication/PR2026
+excerpt: ''
+date: 2026-4-1
+venue: 'Pattern Recognition'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S003132032501177X'
+citation: 'Guorui Li, Yanhui Zhang, Ying Wang, Cong Wang. FCP-Pro: federated conformal prediction algorithm based on prototype similarity. Pattern Recognition, 2026, 172: 112514: 1-10.'
+---
+Research on trustworthy federated learning (FL) is still in its nascent stages, which severely limits the potential for FL to be applied in high-stakes scenarios, such as medical diagnosis, financial computing, and autonomous driving. To quantify uncertainty for the federated classification task, we extend conformal prediction to the federated learning system. First, we design the prototype-based adaptive prediction set (PAPS) score function for FL to compute the integrated prototype-based non-conformity score. It utilizes prototypes as proxies to protect privacy and reduce the size of the prediction set. Subsequently, we propose the federated conformal prediction algorithm based on prototype similarity (FCP-Pro) to overcome the data non-exchangeability and improve the prediction efficiency. It simultaneously enforces label shift correction and similarity calibration adjustment to the empirical distribution of federated calibration samples. The coverage guarantee of the proposed FCP-Pro algorithm is proved theoretically. To validate the effectiveness of the FCP-Pro algorithm, extensive experiments have been conducted on the CIFAR-10, CIFAR-100, and ImageNet datasets. The experimental results demonstrate that FCP-Pro significantly outperforms other state-of-the-art federated conformal prediction algorithms in terms of both empirical coverage and efficiency.
