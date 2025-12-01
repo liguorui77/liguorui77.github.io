@@ -19,6 +19,7 @@ location: "China"
 [Ex5](https://liguorui77.github.io/files/Ex5.zip)
 [Ex6](https://liguorui77.github.io/files/Ex6.zip)
 [Ex7](https://liguorui77.github.io/files/Ex7.zip)
+[Ex8](https://liguorui77.github.io/files/Ex8.zip)
 
 [2025-C++课程设计题目](https://liguorui77.github.io/files/2025-C++课程设计题目.docx)
 [2025-C++课程设计报告模板及示例](https://liguorui77.github.io/files/2025-C++课程设计报告模板及示例.docx)
