@@ -12,7 +12,7 @@ location: "China"
 
 [PPT](https://liguorui77.github.io/files/PPT.zip) [Review](https://liguorui77.github.io/files/Review.ppt)
 
-[Ex1](https://liguorui77.github.io/files/Ex1.zip)
+<!--[Ex1](https://liguorui77.github.io/files/Ex1.zip)
 [Ex2](https://liguorui77.github.io/files/Ex2.zip)
 [Ex3](https://liguorui77.github.io/files/Ex3.zip)
 [Ex4](https://liguorui77.github.io/files/Ex4.zip)
@@ -28,4 +28,4 @@ location: "China"
 [C++程序设计期末考试-考生须知](https://liguorui77.github.io/files/考生须知.pdf)
 
 [2025-C++课程设计题目](https://liguorui77.github.io/files/2025-C++课程设计题目.docx)
-[2025-C++课程设计报告模板及示例](https://liguorui77.github.io/files/2025-C++课程设计报告模板及示例.docx)
+[2025-C++课程设计报告模板及示例](https://liguorui77.github.io/files/2025-C++课程设计报告模板及示例.docx)-->
